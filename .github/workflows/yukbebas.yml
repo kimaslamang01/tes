@@ -1,5 +1,4 @@
 name: James-bot
-
 on: [workflow_dispatch] push
 
 jobs:
