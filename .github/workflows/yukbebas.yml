@@ -1,9 +1,10 @@
-name: James-bot
+name: james-masal
+
 on: [workflow_dispatch] push
 
 jobs:
   build:
-    name: James-bot
+    name: james-masal
     runs-on: windows-latest
     strategy:
       max-parallel: 5
