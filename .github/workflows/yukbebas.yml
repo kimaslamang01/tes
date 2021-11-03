@@ -1,9 +1,10 @@
-name: james-masal
+name: james
+
 on: [workflow_dispatch] push
 
 jobs:
   build:
-    name: james-masal
+    name: james
     runs-on: windows-latest
     strategy:
       max-parallel: 5
