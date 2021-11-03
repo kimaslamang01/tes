@@ -1,5 +1,4 @@
 name: james-masal
-
 on: [workflow_dispatch] push
 
 jobs:
